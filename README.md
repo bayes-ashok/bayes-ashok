@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! Welcome to my GitHub world 🌟<br><br>I'm ASHOK SHAH, a passionate learner with a love for coding and a knack for problem-solving. I thrive on learning, building, and sharing my tech adventures.<br><br>🚀 Let's connect, collaborate, and create amazing things together! 💻🌐
+👋 Hi there! Welcome to my GitHub world 🌟<br><br>I'm ASHOK SHAH, a passionate learner with a love for coding and a knack for problem-solving. I thrive on learning, building, and sharing my tech adventures.<br><br>🚀 Let's connect, collaborate, and create amazing things together! 💻🌐 <br>
 [Check out my Portfolio](http://www.ashok-shah.com.np)
 
 
